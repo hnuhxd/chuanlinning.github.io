@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "宁传林 / 个人学术网站"
 title_separator          : "-"
 name                     : &name "宁传林"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "宁传林的个人学术网站，展示其在上海交通大学媒体与传播学院的研究成果和学术动态。"
+url                      : https://chuanlinning.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hnuhxd/chuanlinning.github.ioo"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "宁传林"
+  pronouns         : # example: "he"  
+  bio              : "上海交通大学媒体与传播学院助理研究员，研究方向：体育传播"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "上海交通大学媒体与传播学院"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chuanlinning@sjtu.edu.cn" 
 
   # Academic websites
   academia         : # URL
